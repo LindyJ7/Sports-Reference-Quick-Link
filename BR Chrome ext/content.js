@@ -1,5 +1,3 @@
-console.log("begin content");
-
 window.addEventListener('mouseup', nameSelected);
 
 function nameSelected() {
